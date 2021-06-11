@@ -34,7 +34,7 @@ from Python_ARQ import ARQ
 from youtube_search import YoutubeSearch
 
 from DaisyXMusic.config import ARQ_API_KEY
-from DaisyXMusic.config import BOT_NAME as bn
+from DaisyXMusic.config import BOT_NAME 
 from DaisyXMusic.config import DURATION_LIMIT
 from DaisyXMusic.config import UPDATES_CHANNEL as updateschannel
 from DaisyXMusic.config import que
